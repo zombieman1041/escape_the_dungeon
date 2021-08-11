@@ -1,0 +1,27 @@
+{
+  "name": "escape_the_dungeon",
+  "version": "1.0.0",
+  "description": "CS-140 final project\r We are created an in story mode game using Java Script.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zombieman1041/escape_the_dungeon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zombieman1041/escape_the_dungeon/issues"
+  },
+  "homepage": "https://github.com/zombieman1041/escape_the_dungeon#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  },
+  "engines": {
+    "node": "12.16.1"
+  }
+}
